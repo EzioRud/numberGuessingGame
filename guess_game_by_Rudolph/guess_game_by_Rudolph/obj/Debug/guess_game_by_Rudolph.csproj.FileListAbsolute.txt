@@ -1,0 +1,52 @@
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe.config
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.pdb
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csprojResolveAssemblyReference.cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\App.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.lref
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.baml
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.baml
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.g.resources
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.Properties.Resources.resources
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.GenerateResource.Cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.exe
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.pdb
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\ThinkLib.dll
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe.config
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.pdb
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csprojResolveAssemblyReference.cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\App.g.cs
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.lref
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.baml
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.baml
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.g.resources
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.Properties.Resources.resources
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.GenerateResource.Cache
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.exe
+C:\Users\Messiah 2nd Advent\Desktop\prac 7\guess_game_by_Rudolph_Version2\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.pdb
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe.config
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.exe
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\bin\Debug\guess_game_by_Rudolph.pdb
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.AssemblyReference.cache
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.SuggestedBindingRedirects.cache
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.g.cs
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.g.cs
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\App.g.cs
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.cache
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph_MarkupCompile.lref
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\GameItSelf.baml
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\MainWindow.baml
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.g.resources
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.Properties.Resources.resources
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.GenerateResource.cache
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.CoreCompileInputs.cache
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.csproj.CopyComplete
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.exe
+C:\Users\luvhengot\Downloads\guess_game_by_Rudolph_V4\guess_game_by_Rudolph\guess_game_by_Rudolph\obj\Debug\guess_game_by_Rudolph.pdb

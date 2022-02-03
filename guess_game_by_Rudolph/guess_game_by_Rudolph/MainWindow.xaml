@@ -1,0 +1,29 @@
+﻿<Window x:Class="guess_game_by_Rudolph.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:guess_game_by_Rudolph"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="mass_effect_andromeda_n7-wallpaper-5120x2880.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="469*"/>
+            <ColumnDefinition Width="48*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Play!" HorizontalAlignment="Left" Margin="210,10,0,0" VerticalAlignment="Top" Width="75" FontSize="16" FontFamily="Showcard Gothic" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="water_reflection_photography-wallpaper-3840x2160.jpg" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="270" Margin="10,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="497" FontSize="16" Text="&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Welcome to the Number Guessing Game.  I will think of a number in the range 0 to 9 and you will have 5 guesses to get it.  Each time you guess the correct number, I will increase the range by 10 and give you some more guesses.  If you run out of guesses, you lose.  Complete all 10 levels to beat the game.  Good luck!  Click 'Play' to start. " TextAlignment="Center" FontWeight="Bold" Grid.ColumnSpan="2">
+            <TextBox.Background>
+                <ImageBrush ImageSource="blue_ball_macro-wallpaper-5120x2880.jpg"/>
+            </TextBox.Background>
+        </TextBox>
+
+    </Grid>
+</Window>
